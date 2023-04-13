@@ -8,7 +8,7 @@
   "postCreateCommand": "",
   "customizations": {
     "codespaces": {
-      "openFiles": []
+      "openFiles": ["UBAGirlsDay23_dataLoad.ipynb"]
     },
     "vscode": {
       "extensions": [
