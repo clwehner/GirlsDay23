@@ -1,5 +1,5 @@
 ID,AnzahlFluegel,Baujahr,Name,Leistung,Untergrund,Hoehe,Durchmesser,LeistungProFlaeche
-1,3,2020,MaxWind-4MW,4,Land,105,137,270
+1,3,2020,MaxWind-4MW,4,Land,105,137,271
 2,3,2020,WindPower-1MW,1,Land,107,119,90
 3,3,2020,SuperWind-2MW,2,Wasser,110,124,167
 4,3,2020,MaxWind-4MW,4,Land,112,121,349
