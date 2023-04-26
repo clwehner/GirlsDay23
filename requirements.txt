@@ -46,4 +46,6 @@ scikit-learn==1.2.2
 
 pyarrow==11.0.0
 
+plotly==5.3.1 
+
 fastparquet==2023.2.0
