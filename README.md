@@ -4,15 +4,15 @@ In diesem "Repo" befinden sich für euch ein paar vorbereitete Testdaten mit daz
 
 Die drei Notebooks:
 
-#### 1.  "Hello World"
+#### 1.  HelloWorld
 
 Hier werden wir euch die für den Workshop notwendigen Skills beibringen.
 
-#### 2.  DatendetektivInnen
+#### 2.  Datendetektivinnen
 
 Hier werdet ihr ein wenig selber mit Daten arbeiten können.
 
-#### 3.  Datenanalyse Marktstammdatenregister
+#### 3.  Datenanalyse_MaStR (Marktstammdatenregister)
 
 Hier werdet ihr an realen Daten, sowie wir sie auch aktuell am UBA nutzen, arbeiten und mit vorgefertigten Visualisierungen versuchen Fragen zu beantworten.
 
