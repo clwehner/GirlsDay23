@@ -1,4 +1,4 @@
-# UBA Girl's Day 2023 - 
+# UBA Girl's Day 2023 - Künstliche Intelligenz für modernen Umweltschutz
 
 In diesem "Repo" befinden sich für euch ein paar vorbereitete Testdaten mit dazugehörigen Dokumenten, sogenannten Notebooks, mit denen ihr mit den Daten arbeiten könnt. Wir haben für euch drei von diesen Notebooks vorbereitet die wir mit euch nach und nach und Schritt für Schritt durchgehen werden. Keine Sorge! Fragt uns immer wenn euch was komisch vorkommt oder etwas nicht geht. Es kann auch sein das wir in der Vorbereitung irgendwo was vergessen haben.
 
