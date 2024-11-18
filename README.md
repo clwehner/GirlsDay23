@@ -1,22 +1,20 @@
-# UBA Girl's Day 2023 - Künstliche Intelligenz für modernen Umweltschutz
+# UBA Girl's Day 2023 - Artificial intelligence for modern environmental protection
 
-In diesem "Repo" befinden sich für euch ein paar vorbereitete Testdaten mit dazugehörigen Dokumenten, sogenannten Notebooks, mit denen ihr mit den Daten arbeiten könnt. Wir haben für euch drei von diesen Notebooks vorbereitet die wir mit euch nach und nach und Schritt für Schritt durchgehen werden. Keine Sorge! Fragt uns immer wenn euch was komisch vorkommt oder etwas nicht geht. Es kann auch sein das wir in der Vorbereitung irgendwo was vergessen haben.
+In this “repo” you will find a few prepared test data with associated documents, so-called notebooks, with which you can work with the data. We have prepared three of these notebooks for you, which we will go through with you step by step. Don't worry! Always ask us if something seems strange or doesn't work. It is also possible that we have forgotten something somewhere in the preparation.
+The three notebooks:
 
-Die drei Notebooks:
+#### 1. HelloWorld
 
-#### 1.  HelloWorld
+Here we will teach you the skills you need for the workshop.
 
-Hier werden wir euch die für den Workshop notwendigen Skills beibringen.
+#### 2. Data detectives
 
-#### 2.  Datendetektivinnen
+Here you will be able to work a little with data yourself.
 
-Hier werdet ihr ein wenig selber mit Daten arbeiten können.
+#### 3. Data Analysis_MaStR (Market Master Data Register)
 
-#### 3.  Datenanalyse_MaStR (Marktstammdatenregister)
+Here you will work on real data, as we currently use it at the UBA, and try to answer questions with ready-made visualizations.
 
-Hier werdet ihr an realen Daten, sowie wir sie auch aktuell am UBA nutzen, arbeiten und mit vorgefertigten Visualisierungen versuchen Fragen zu beantworten.
-
-
-Wenn ihr loslegen wollt, klickt unten auf das Symbol auf dem "Binder" steht und los kann es gehen!
+If you want to get started, click on the symbol below that says “Binder” and off you go!
 
 Binder Link: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/clwehner/GirlsDay23/HEAD?labpath=UBAGirlsDay23_dataLoad.ipynb)
