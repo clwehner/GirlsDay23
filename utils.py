@@ -1,4 +1,4 @@
-def Datenvorbereitung(df):
+def data_preparation(df):
     """
     
     """
