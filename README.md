@@ -17,4 +17,4 @@ Here you will work on real data, as we currently use it at the UBA, and try to a
 
 If you want to get started, click on the symbol below that says “Binder” and off you go!
 
-Binder Link: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/clwehner/GirlsDay23/HEAD?labpath=UBAGirlsDay23_dataLoad.ipynb)
+Binder Link: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/clwehner/GirlsDay23/herti_school?labpath=data_exploration_MaStR.ipynb)
