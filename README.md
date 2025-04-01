@@ -19,4 +19,4 @@ Hier werdet ihr an realen Daten, sowie wir sie auch aktuell am UBA nutzen, arbei
 
 Wenn ihr loslegen wollt, klickt unten auf das Symbol auf dem "Binder" steht und los kann es gehen!
 
-Binder Link: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/clwehner/GirlsDay23/HEAD?labpath=UBAGirlsDay23_dataLoad.ipynb)
+Binder Link: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/clwehner/GirlsDay23/HEAD?urlpath=%2Fdoc%2Ftree%2FHelloWorld.ipynb)
